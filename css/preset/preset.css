@@ -13,6 +13,10 @@ li {
   width: 90%;
   height: 70px;
 }
+
+.h3 {
+  font-size: 100000%;
+}
 .font-style {
   font-family: 'Lobster', cursive;
   font-size: 20px;
@@ -24,7 +28,7 @@ li {
   font-size: 200%;
 }
 .background {
-  background: linear-gradient(red, yellow);
+  background-color: blue;
 }
 .borders {
   border: 3px dashed red;

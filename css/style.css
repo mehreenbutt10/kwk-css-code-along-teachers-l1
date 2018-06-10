@@ -1,1 +1,25 @@
 /* add CSS class and element and selectors here */
+
+body {
+  background-color: lightblue;
+  font-size: 150%;
+}
+
+.info-section {
+  font-size: 100%;
+  color: red;
+  background-color: white;
+  font-family: Courier;
+  border: 1px dotted red;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  transition: rotate(-30)deg;
+  text-align: center;
+}
+
+h1 {
+  font-size: 200%;
+  color: pink;
+  background-color: lightgreen;
+  
+}
