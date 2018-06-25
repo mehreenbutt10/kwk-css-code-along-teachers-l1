@@ -1,8 +1,9 @@
 /* add CSS class and element and selectors here */
 
 body {
-  background-color: lightblue;
+  background-color: red;
   font-size: 150%;
+  color: green;
 }
 
 .info-section {
@@ -20,6 +21,20 @@ body {
 h1 {
   font-size: 200%;
   color: pink;
-  background-color: lightgreen;
+  background-color: blue;
   
+}
+
+h3 {
+  font-size: 300%;
+}
+
+div {
+  border: 5px solid black;
+}
+
+body {
+  color:green;
+  text-shadow: 2px 2px #ff0000;
+  text-align: center;
 }
